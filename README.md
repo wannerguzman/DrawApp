@@ -1,6 +1,9 @@
 # DrawApp
 ```
-A simple java application to draw. I inserted a Menu in which you can choose a color. I also added another option so you can change the thickness of the pen. You also have an option to be in painting mode or erase mode. You can also delete everything on the frame and restart fresh.
+A simple java application to draw. I inserted a Menu in which you can choose a color. 
+I also added another option so you can change the thickness of the pen. You also have 
+an option to be in painting mode or erase mode. You can also delete everything on the 
+frame and restart fresh.
 
 ```
 # Compile
