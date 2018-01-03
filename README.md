@@ -16,4 +16,4 @@ Run using java Draw in terminal.
 
 ```
 # Example Run
-![](http://giphy.gif)
+![scrrenshot](http://giphy.gif)
