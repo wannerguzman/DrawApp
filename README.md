@@ -26,8 +26,8 @@ are pressed.
 ```
 2.Painting
 ```
-Here is where I write the main functionalities of painting like changing color, erase, delate.
-Here also where the program listens when the mouse is pressed on the screen and start
+Here is where I write the main functionalities of painting like changing color, erase, delete.
+The program listens when the mouse is pressed on the screen and start
 drawing.
 ```
 # Example Run
